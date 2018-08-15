@@ -2,7 +2,7 @@
   
   int main(){
     int ret;
-    ret = soma(2, 7);
+    ret = soma(2, 3);
     printf("O resultado Ã©: %d", ret);
     return 0;
   }
